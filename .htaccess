@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule p/(.*?)/?$ index.php?subdir&id=$1
